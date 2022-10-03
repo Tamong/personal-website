@@ -18,8 +18,8 @@ const Projects: FC<any> = (): ReactElement => {
                 justifyContent: 'center',
                 alignItems: 'center'
             }}>
-                <Card sx={{ maxWidth: 400 }}>
-                    <iframe width="400" height="225" 
+                <Card sx={{ maxWidth: 720 }}>
+                    <iframe width="720" height="405" 
                     src="https://www.youtube.com/embed/videoseries?list=PLkGeWJiahCVBYILHEQPxy_9Mno4yxoKn_" 
                     title="Media Projects" 
                     frameBorder="0" 
